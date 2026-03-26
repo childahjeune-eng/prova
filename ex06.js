@@ -1,5 +1,7 @@
-//crie uma variável chamada profissão e mostre no cosole: "es quero ser____";
+//crie uma variável chamada profissão e mostre no cosole: "eu quero ser____";
 
-let profissao = "bombeira";
+let profissão = bombeiro;
 
-console.log("eu quero ser " + profissao);
+if(profissão) {
+    console.log(`eu quero ser ${profissão}`);
+}
