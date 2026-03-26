@@ -1,0 +1,1 @@
+//mostre apenas os números pares de 1 até 10;

@@ -1,0 +1,1 @@
+//crie duas variáveis: nome e idade, e mostre: "meu nome é___ e tenho___anos";

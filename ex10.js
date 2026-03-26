@@ -1,0 +1,1 @@
+//verifique se um número é divisivel por 3;

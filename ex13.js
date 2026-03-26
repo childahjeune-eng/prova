@@ -1,0 +1,1 @@
+//crie uma condicional para avaliar uma nota: maior ou igual a 8 "muito bom" maior ou igual a 6 "satisfatório" senão "insuficiente";
